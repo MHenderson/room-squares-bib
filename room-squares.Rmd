@@ -1,0 +1,18 @@
+---
+title: Room Squares Bibliography
+author: Matthew Henderson
+date: "`r Sys.Date()`"
+description: Bibliography of Room Squares.
+output:
+  pdf_document:
+    latex_engine: xelatex
+  github_document: default
+bibliography: room-squares.bib
+nocite: |
+  '@*'
+documentclass: article
+classoption: a4paper
+fontsize: 12pt
+---
+
+## References
