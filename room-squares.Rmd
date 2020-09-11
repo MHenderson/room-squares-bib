@@ -1,5 +1,5 @@
 ---
-title: Room Squares Bibliography
+title: Room Squares
 author: Matthew Henderson
 date: "`r Sys.Date()`"
 description: Bibliography of Room Squares.
@@ -11,8 +11,10 @@ bibliography: room-squares.bib
 nocite: |
   '@*'
 documentclass: article
-classoption: a4paper
 fontsize: 12pt
+mainfont: Cardo
+header-includes:
+  - \usepackage[a4paper,margin=2cm]{geometry}
 ---
 
-## References
+# Bibliography
