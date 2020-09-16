@@ -6,15 +6,18 @@ description: Bibliography of Room Squares.
 output:
   pdf_document:
     latex_engine: xelatex
+    citation_package: biblatex
   github_document: default
 bibliography: room-squares.bib
-nocite: |
-  '@*'
 documentclass: article
 fontsize: 12pt
 mainfont: Cardo
 header-includes:
   - \usepackage[a4paper,margin=2cm]{geometry}
+  - \usepackage[annotation,notes,backend=biber]{biblatex-chicago}
+  - \addbibresource{room-squares.bib}
 ---
+
+\nocite{*}
 
 # Bibliography

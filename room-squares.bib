@@ -35,6 +35,15 @@
 	year = {1987},
 	note = {Publisher: Society for Industrial and Applied Mathematics},
 	pages = {430--438},
+	annote = {This paper was published in 1987 and describes an approach to constructing Room squares with hill-climbing. The authors make use of the fact that a Room square is equivalent to a pair of orthogonal one-factorizations of K\_n. Two one-factorizations of the same graph are said to be orthogonal if any two factors, one from each factorization, only share at most one edge in common.
+ 
+The second section of the paper describes how to use hill-climbing to find one-factorizations of K\_n. In the third section this approach is modified to find a one-factorization of K\_n which is orthogonal to a given one-factorization of K\_n.
+ 
+The basic idea behind hill-climbing is that you look for a solution by first finding a feasible solution and then making a small change to the feasible solution that decreases a cost function. The cost function measures how far you are from the solution, so as you continue making small steps, decreasing (or, at least, not increasing) the cost function you get closer and closer to the solution.
+ 
+In the fourth section they look at a more complicated problem, of constructing Room squares with subsquares. A subsquare here just means the intersection of some rows and columns of the Room square that also happens to be a Room square.
+ 
+Finally, in the fifth and final section they talk about some applications. One possible application is constructing large numbers of nonisomorphic one-factorizations and Room squares. Another is to use the same approach to look for previously unknown designs, like the Room squares with subsquares.},
 	file = {Dinitz_Stinson_1987_A Hill-Climbing Algorithm for the Construction of One-Factorizations and Room.pdf:/home/matthew/Zotero/storage/7H9P9KJE/Dinitz_Stinson_1987_A Hill-Climbing Algorithm for the Construction of One-Factorizations and Room.pdf:application/pdf;Snapshot:/home/matthew/Zotero/storage/6ZG2XIDJ/0608035.html:text/html}
 }
 
@@ -124,6 +133,13 @@
 	year = {1975},
 	keywords = {room-squares},
 	pages = {1--7},
+	annote = {This paper was published in 1975 and gives an overview of the work done to settle the existence question for Room squares. It’s only seven pages long but it gives a very clear outline of the proof and all of the results needed to build the proof.
+ 
+The main components of the proof are the starter-adder approach, two results about the existence of starters and adders for prime power and Fermat prime order, and two multiplicative constructions. With this results established the proof itself is only one paragraph. The authors points out, however, that other such proofs have actually failed to properly establish the main result. Quite likely I made this mistake in my own version of the proof in my report.
+ 
+There is a section at the end of related problems. One is the existence of skew Room squares. I honestly don’t know if this was eventually settled or not. Another related problem is the existence of MOLS. The authors point out that a standardized Room square is equivalent to a pair of MOLS. They mention the problem of finding as large a set of MOLS as possible and refer to some results of Gross.
+ 
+They end by reminding us that Room squares were first introduced by Howell in 1897 as Howell rotations.},
 	file = {mullin1975.pdf:/home/matthew/Zotero/storage/A572UG55/mullin1975.pdf:application/pdf}
 }
 
@@ -137,20 +153,10 @@
 	year = {2006}
 }
 
-@article{anderson_construction_1999,
-	title = {On the construction of balanced {Room} squares},
-	volume = {197},
-	journal = {Discrete mathematics},
-	author = {Anderson, Ian},
-	year = {1999},
-	note = {Publisher: North-Holland},
-	pages = {53--60}
-}
-
 @article{bose_resolvable_1947,
 	title = {On a resolvable series of balanced incomplete block designs},
 	journal = {Sankhyā: The Indian Journal of Statistics},
-	author = {Bose, RC},
+	author = {Bose, R.C.},
 	year = {1947},
 	note = {Publisher: JSTOR},
 	pages = {249--256}
@@ -160,7 +166,7 @@
 	title = {What is a loop},
 	volume = {2},
 	journal = {Studies in modern algebra},
-	author = {Bruck, RH},
+	author = {Bruck, R.H.},
 	year = {1963},
 	note = {Publisher: Prentice-Hall, Englewood Cliffs, NJ},
 	pages = {59--99}
@@ -172,17 +178,6 @@
 	school = {University of Waterloo},
 	author = {Nemeth, E},
 	year = {1969}
-}
-
-@article{schellenberg_balanced_1973,
-	title = {On balanced {Room} squares and complete balanced {Howell} rotations},
-	volume = {9},
-	number = {1},
-	journal = {aequationes mathematicae},
-	author = {Schellenberg, PJ},
-	year = {1973},
-	note = {Publisher: Springer},
-	pages = {75--90}
 }
 
 @article{stanton_multiplication_1972,
@@ -424,14 +419,6 @@
 	year = {1955}
 }
 
-@article{schellenberg_balanced_1973-1,
-	title = {On balanced {Room} squares and complete balanced {Howell} rotations},
-	volume = {9},
-	journal = {Aequationes Math.},
-	author = {Schellenberg, P. J.},
-	year = {1973}
-}
-
 @article{shah_analysis_1970,
 	title = {Analysis of {Room}'s square design},
 	volume = {41},
@@ -458,7 +445,8 @@
 
 @book{stanton_techniques_1970,
 	address = {Baton Rouge},
-	title = {Techniques for {Room} squares. {Proceedings} of the {First} {Louisiana} {Conference} on {Combinatorics}},
+	series = {. {Proceedings} of the {First} {Louisiana} {Conference} on {Combinatorics}},
+	title = {Techniques for {Room} squares},
 	publisher = {Graph Theory and Computing},
 	author = {Stanton, R. G. and Mullin, R. C.},
 	year = {1970}
@@ -542,4 +530,57 @@
 	journal = {Canad. Math. Bull.},
 	author = {Weisner, L.},
 	year = {1964}
+}
+
+@article{anderson_construction_1999,
+	series = {16th {British} {Combinatorial} {Conference}},
+	title = {On the construction of balanced room squares},
+	volume = {197-198},
+	issn = {0012-365X},
+	url = {http://www.sciencedirect.com/science/article/pii/S0012365X99900390},
+	doi = {10.1016/S0012-365X(99)90039-0},
+	abstract = {The standard procedure for constructing balanced Room squares from symmetric skew balanced starters is examined, and put right.},
+	language = {en},
+	urldate = {2020-09-12},
+	journal = {Discrete Mathematics},
+	author = {Anderson, Ian},
+	month = feb,
+	year = {1999},
+	keywords = {Room square, Symmetric skew balanced starter},
+	pages = {53--60},
+	file = {Anderson_1999_On the construction of balanced room squares.pdf:/home/matthew/Zotero/storage/ZK3IY5RD/Anderson_1999_On the construction of balanced room squares.pdf:application/pdf;ScienceDirect Snapshot:/home/matthew/Zotero/storage/JVKN3TP4/S0012365X99900390.html:text/html}
+}
+
+@article{schellenberg_balanced_1972,
+	title = {On balanced room squares and complete balanced howell rotations},
+	volume = {8},
+	issn = {1420-8903},
+	url = {https://doi.org/10.1007/BF01832751},
+	doi = {10.1007/BF01832751},
+	language = {en},
+	number = {1},
+	urldate = {2020-09-14},
+	journal = {aequationes mathematicae},
+	author = {Schellenberg, P. J.},
+	month = feb,
+	year = {1972},
+	pages = {196--197},
+	file = {Schellenberg_1972_On balanced room squares and complete balanced howell rotations.pdf:/home/matthew/Zotero/storage/CALFRXRK/Schellenberg_1972_On balanced room squares and complete balanced howell rotations.pdf:application/pdf}
+}
+
+@article{schellenberg_balanced_1973,
+	title = {On balanced room squares and complete balanced {Howell} rotations},
+	volume = {9},
+	issn = {1420-8903},
+	url = {https://doi.org/10.1007/BF01838192},
+	doi = {10.1007/BF01838192},
+	language = {en},
+	number = {1},
+	urldate = {2020-09-14},
+	journal = {aequationes mathematicae},
+	author = {Schellenberg, P. J.},
+	month = feb,
+	year = {1973},
+	pages = {75--90},
+	file = {Schellenberg_1973_On balanced room squares and complete balanced Howell rotations.pdf:/home/matthew/Zotero/storage/32GHEQX4/Schellenberg_1973_On balanced room squares and complete balanced Howell rotations.pdf:application/pdf}
 }
