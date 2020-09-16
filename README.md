@@ -1,7 +1,11 @@
 Room Squares
 ================
 Matthew Henderson
-2020-09-11
+2020-09-16
+
+
+
+
 
 
 
@@ -12,7 +16,8 @@ Matthew Henderson
 <div id="ref-anderson_construction_1999">
 
 Anderson, Ian. 1999. “On the Construction of Balanced Room Squares.”
-*Discrete Mathematics* 197: 53–60.
+*Discrete Mathematics*, 16th British Combinatorial Conference, 197-198
+(February): 53–60. <https://doi.org/10.1016/S0012-365X(99)90039-0>.
 
 </div>
 
@@ -41,14 +46,15 @@ Series A* 12.
 
 <div id="ref-bose_resolvable_1947">
 
-Bose, RC. 1947. “On a Resolvable Series of Balanced Incomplete Block
+Bose, R. C. 1947. “On a Resolvable Series of Balanced Incomplete Block
 Designs.” *Sankhyā: The Indian Journal of Statistics*, 249–56.
 
 </div>
 
 <div id="ref-bruck_what_1963">
 
-Bruck, RH. 1963. “What Is a Loop.” *Studies in Modern Algebra* 2: 59–99.
+Bruck, R. H. 1963. “What Is a Loop.” *Studies in Modern Algebra* 2:
+59–99.
 
 </div>
 
@@ -295,17 +301,19 @@ Room, T. G. 1955. “A New Type of Magic Square.” *Math. Gazette* 39.
 
 </div>
 
-<div id="ref-schellenberg_balanced_1973">
+<div id="ref-schellenberg_balanced_1972">
 
-Schellenberg, PJ. 1973. “On Balanced Room Squares and Complete Balanced
-Howell Rotations.” *Aequationes Mathematicae* 9 (1): 75–90.
+Schellenberg, P. J. 1972. “On Balanced Room Squares and Complete
+Balanced Howell Rotations.” *Aequationes Mathematicae* 8 (1): 196–97.
+<https://doi.org/10.1007/BF01832751>.
 
 </div>
 
-<div id="ref-schellenberg_balanced_1973-1">
+<div id="ref-schellenberg_balanced_1973">
 
-Schellenberg, P. J. 1973. “On Balanced Room Squares and Complete
-Balanced Howell Rotations.” *Aequationes Math.* 9.
+———. 1973. “On Balanced Room Squares and Complete Balanced Howell
+Rotations.” *Aequationes Mathematicae* 9 (1): 75–90.
+<https://doi.org/10.1007/BF01838192>.
 
 </div>
 
@@ -340,8 +348,8 @@ Stanton, R. G., and R. C. Mullin. 1968. “Construction of Room Squares.”
 
 <div id="ref-stanton_techniques_1970">
 
-———. 1970. *Techniques for Room Squares. Proceedings of the First
-Louisiana Conference on Combinatorics*. Baton Rouge: Graph Theory;
+———. 1970. *Techniques for Room Squares*.. Proceedings of the First
+Louisiana Conference on Combinatorics. Baton Rouge: Graph Theory;
 Computing.
 
 </div>
