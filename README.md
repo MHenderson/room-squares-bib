@@ -1,9 +1,7 @@
 Room Squares
 ================
 Matthew Henderson
-2020-09-16
-
-
+2020-09-17
 
 
 
@@ -36,11 +34,21 @@ Squares and Application in Experimental Design.” *Ann. Math. Statist.*
 
 </div>
 
+<div id="ref-beaman_skew_1977">
+
+Beaman, I. R., and W. D. Wallis. 1977. “On Skew Room Squares.” In
+*Combinatorial Mathematics V*, edited by Charles H. C. Little, 61–63.
+Lecture Notes in Mathematics. Berlin, Heidelberg: Springer.
+<https://doi.org/10.1007/BFb0069181>.
+
+</div>
+
 <div id="ref-berlekamp_constructions_1972">
 
-Berlekamp, E. R., and F. K. Hwang. 1972. “Constructions for Balanced
-Howell Rotations for Bridge Tournaments.” *J. Combinatorial Theory,
-Series A* 12.
+Berlekamp, E. R, and F. K Hwang. 1972. “Constructions for Balanced
+Howell Rotations for Bridge Tournaments.” *Journal of Combinatorial
+Theory, Series A* 12 (2): 159–66.
+<https://doi.org/10.1016/0097-3165(72)90033-7>.
 
 </div>
 
@@ -60,8 +68,30 @@ Bruck, R. H. 1963. “What Is a Loop.” *Studies in Modern Algebra* 2:
 
 <div id="ref-byleen_stanton_1970">
 
-Byleen, K. 1970. “On Stanton and Mullin’s Contruction of Room Squares.”
-*Ann. Math. Statist.* 41.
+Byleen, Karl. 1970. “On Stanton and Mullin’s Construction of Room
+Squares.” *Annals of Mathematical Statistics* 41 (3): 1122–5.
+<https://doi.org/10.1214/aoms/1177696995>.
+
+</div>
+
+<div id="ref-chaudhry_minimal_1996">
+
+Chaudhry, Ghulam Rasool, and Jennifer Seberry. 1996. “Minimal and
+Maximal Critical Sets in Room Squares.” Dept. of Computer Science,
+University of Sydney, Australia.
+
+</div>
+
+<div id="ref-chaudhry_secret_nodate">
+
+———. n.d. “Secret Sharing Schemes Based on Room Squares,” 12.
+
+</div>
+
+<div id="ref-chaudhry_minimal_nodate">
+
+Chaudhry, Ghulam R, and Jennifer Seberry. n.d. “Minimal Critical Set of
+a Room Square of Order 7,” 3.
 
 </div>
 
@@ -92,11 +122,34 @@ Dillon, J. F., and R. A. Morris. 1973. “A Skew Room Square of Side 257.”
 
 </div>
 
+<div id="ref-dinitz_room_1997">
+
+Dinitz, J. H., and E. R. Lamken. 1997. *Room Square Patterns*.
+
+</div>
+
+<div id="ref-dinitz_existence_2013">
+
+Dinitz, J. H., E. R. Lamken, and Gregory S. Warrington. 2013. “On the
+Existence of Three Dimensional Room Frames and Howell Cubes.” *Discrete
+Mathematics* 313 (12): 1368–84.
+<https://doi.org/10.1016/j.disc.2013.02.017>.
+
+</div>
+
+<div id="ref-dinitz_nonisomorphic_1983">
+
+Dinitz, J. H., and D. R. Stinson. 1983. “On Nonisomorphic Room Squares.”
+*Proceedings of the American Mathematical Society* 89 (1): 175–81.
+<https://doi.org/10.1090/S0002-9939-1983-0706536-8>.
+
+</div>
+
 <div id="ref-dinitz_contemporary_1992">
 
-Dinitz, J. H., and D. R. Stinson. 1992. *Contemporary Design Theory: A
-Collection of Surveys*. Wiley Series in Discrete Mathematics and
-Optimization. Wiley. <https://books.google.co.uk/books?id=nDiEFrSwvGgC>.
+———. 1992. *Contemporary Design Theory: A Collection of Surveys*. Wiley
+Series in Discrete Mathematics and Optimization. Wiley.
+<https://books.google.co.uk/books?id=nDiEFrSwvGgC>.
 
 </div>
 
@@ -105,6 +158,15 @@ Optimization. Wiley. <https://books.google.co.uk/books?id=nDiEFrSwvGgC>.
 ———. 1987. “A Hill-Climbing Algorithm for the Construction of
 One-Factorizations and Room Squares.” *SIAM Journal on Algebraic
 Discrete Methods* 8 (3): 430–38. <https://doi.org/10.1137/0608035>.
+
+</div>
+
+<div id="ref-du_existence_1988">
+
+Du, Ding Zhu, and F. K. Hwang. 1988. “Existence of Symmetric Skew
+Balanced Starters for Odd Prime Powers.” *Proceedings of the American
+Mathematical Society* 104 (2): 660–67.
+<https://doi.org/10.1090/S0002-9939-1988-0962844-1>.
 
 </div>
 
@@ -139,14 +201,22 @@ Louisiana Conference on Combinatorics*, Graph Theory and Computing,,
 
 <div id="ref-horton_quintuplication_1971">
 
-———. 1971. “Quintuplication of Room Squares.” *Aequationes Math.* 7.
+———. 1971a. “Quintuplication of Room Squares.” *Aequationes Math.* 7.
+
+</div>
+
+<div id="ref-horton_puintuplication_1971">
+
+———. 1971b. “Puintuplication of Room Squares.” *Aequationes
+Mathematicae* 7 (2): 243–45. <https://doi.org/10.1007/BF01818519>.
 
 </div>
 
 <div id="ref-horton_recursive_1971">
 
 Horton, J. D., R. C. Mullin, and R. G. Stanton. 1971. “A Recursive
-Construction for Room Designs.” *Aequationes Math.* 6.
+Construction for Room Designs.” *Aequationes Mathematicae* 6 (1): 39–45.
+<https://doi.org/10.1007/BF01833236>.
 
 </div>
 
@@ -166,6 +236,14 @@ Howell Rotations for 16k + 12 Partnerships.”
 
 </div>
 
+<div id="ref-kobayashi_perfect_1989">
+
+Kobayashi, Midori, and Kiyasu-Zen’iti. 1989. “Perfect One-Factorizations
+of K1332 and K6860.” *Journal of Combinatorial Theory, Series A* 51 (2):
+314–15. <https://doi.org/10.1016/0097-3165(89)90054-X>.
+
+</div>
+
 <div id="ref-lawless_pairwise_1971">
 
 Lawless, J. F. 1971. *Pairwise Balanced Designs and the Construction of
@@ -177,7 +255,8 @@ Conference on Combinatorics*. Baton Rouge: Graph Theory; Computing.
 <div id="ref-lindner_algebraic_1972">
 
 Lindner, Charles C. 1972. “An Algebraic Construction for Room Squares.”
-*SIAM J. Appl. Math.* 22.
+*SIAM Journal on Applied Mathematics* 22 (4): 574–79.
+<https://www.jstor.org/stable/2099694>.
 
 </div>
 
@@ -217,24 +296,10 @@ Product Construction of Room Squares.”
 
 </div>
 
-<div id="ref-mullin_counter-example_1969">
-
-———. 1969b. “A Counter-Example to a Multiplicative Construction of Room
-Squares.” *J. Combinatorial Theory* 7.
-
-</div>
-
 <div id="ref-mullin_existence_1969">
 
-———. 1969c. “An Existence Theorem for Room Squares.” *Canad. Math.
+———. 1969b. “An Existence Theorem for Room Squares.” *Canad. Math.
 Bull.* 12: 493–97.
-
-</div>
-
-<div id="ref-mullin_furnishing_1969">
-
-———. 1969d. “On Furnishing Room Squares.”
-<https://doi.org/10.1016/S0021-9800(69)80022-0>.
 
 </div>
 
@@ -250,6 +315,13 @@ Combinatorics*. Baton Rouge: Graph Theory; Computing.
 
 ———. 1970b. “On the Non-Existence of Orthogonal Steiner Triple Systems
 of Order 9.” *Canad. Math. Bull.* 13.
+
+</div>
+
+<div id="ref-mullin_furnishing_1969">
+
+———. 1969c. “On Furnishing Room Squares.” *Journal of Combinatorial
+Theory* 7 (3): 266–72. <https://doi.org/10.1016/S0021-9800(69)80022-0>.
 
 </div>
 
@@ -283,8 +355,9 @@ Bull.* 11.
 
 <div id="ref-oshaughnessy_room_1972">
 
-———. 1972. “On Room Squares of Order 6m+2.” *J. Combinatorial Theory,
-Series A* 13.
+O’Shaughnessy, C. D. 1972. “On Room Squares of Order 6m + 2.” *Journal
+of Combinatorial Theory, Series A* 13 (3): 306–14.
+<https://doi.org/10.1016/0097-3165(72)90064-7>.
 
 </div>
 
@@ -295,9 +368,10 @@ Duplicate Bridge Sessions.” *Amer. Math. Monthly* 62.
 
 </div>
 
-<div id="ref-room_new_1955">
+<div id="ref-room_2569_1955">
 
-Room, T. G. 1955. “A New Type of Magic Square.” *Math. Gazette* 39.
+Room, T. G. 1955. “2569. A New Type of Magic Square.” *The Mathematical
+Gazette* 39 (330): 307–7. <https://doi.org/10.2307/3608578>.
 
 </div>
 
@@ -326,8 +400,9 @@ Statist.* 41.
 
 <div id="ref-stanton_multiplication_1972-1">
 
-Stanton, R. G., and J. D. Horton. 1972. “A Multiplication Theorem for
-Room Squares.” *J. Combinatorial Theory* 12.
+Stanton, R. G, and J. D Horton. 1972. “A Multiplication Theorem for Room
+Squares.” *Journal of Combinatorial Theory, Series A* 12 (3): 322–25.
+<https://doi.org/10.1016/0097-3165(72)90096-9>.
 
 </div>
 
@@ -357,6 +432,23 @@ Computing.
 <div id="ref-stanton_room_1972">
 
 ———. 1972. “Room Quasigroups and Fermat Primes.” *J. Algebra* 20.
+
+</div>
+
+<div id="ref-stinson_skew_1980">
+
+Stinson, D. R. 1980. “A Skew Room Square of Order 129.” *Discrete
+Mathematics* 31 (3): 333–35.
+<https://doi.org/10.1016/0012-365X(80)90146-6>.
+
+</div>
+
+<div id="ref-stinson_designs_1980">
+
+Stinson, D. R., and W. D. Wallis. 1980. “Some Designs Used in
+Constructing Skew Room Squares.” In *Annals of Discrete Mathematics*,
+edited by M. Deza and I. G. Rosenberg, 8:171–75. Combinatorics 79 Part
+I. Elsevier. <https://doi.org/10.1016/S0167-5060(08)70868-9>.
 
 </div>
 
@@ -414,8 +506,9 @@ Math. Soc.* 16.
 
 <div id="ref-wallis_solution_1974">
 
-———. 1974. “Solution of the Room Square Existence Problem.” *Journal of
-Combinatorial Theory, Series A* 17 (3): 379–83.
+Wallis, W. D. 1974. “Solution of the Room Square Existence Problem.”
+*Journal of Combinatorial Theory, Series A* 17 (3): 379–83.
+<https://doi.org/10.1016/0097-3165(74)90102-2>.
 
 </div>
 
