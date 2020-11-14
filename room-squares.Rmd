@@ -4,11 +4,11 @@ author: Matthew Henderson
 date: "`r Sys.Date()`"
 description: Bibliography of Room Squares.
 output:
-  github_document: default
   pdf_document:
     latex_engine: xelatex
     citation_package: biblatex
     keep_tex: yes
+  github_document: default
 bibliography: room-squares.bib
 nocite: |
   '@*'
