@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2019.1.1)  14 NOV 2020 17:19
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2019.1.1)  5 DEC 2020 11:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1336,9 +1336,9 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.97679pt on input line 77.
 [1
 
-] [2] [3] [4]
+] [2] [3] [4] [5]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
-[5]
+[6]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
 (./room-squares.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 79.
@@ -1355,12 +1355,12 @@ Package logreq Info: Writing requests to 'room-squares.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34765 strings out of 492933
- 645288 string characters out of 6133146
- 1412483 words of memory out of 5000000
- 38522 multiletter control sequences out of 15000+600000
+ 34771 strings out of 492933
+ 645671 string characters out of 6133146
+ 1414483 words of memory out of 5000000
+ 38528 multiletter control sequences out of 15000+600000
  538660 words of font info for 76 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  59i,6n,119p,1724b,5096s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on room-squares.pdf (5 pages).
+Output written on room-squares.pdf (6 pages).
