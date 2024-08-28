@@ -40,3 +40,11 @@ hooks:
 
 count:
 	wc src/section/*.tex > wc.txt 
+
+site:
+	mkdir _site
+	cp src/room-squares-bib.html _site/index.html
+	cp src/room-squares.bib _site/room-squares.bib
+
+serve:
+	python3 -m http.server 8081 -d _site
