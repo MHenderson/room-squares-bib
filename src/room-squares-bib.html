@@ -1,0 +1,38 @@
+<!doctype html>
+<html data-theme="dark">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Room Squares Bibliography</title>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css">
+  </head>
+  <body>
+    <header>
+    <h1>Room Squares - A Bibliography</h1>
+    <input type="text" class="bibtex_search" id="searchbar" placeholder="Search publications">
+    </header>
+    <main>
+    <bibtex src="room-squares.bib"></bibtex>
+    <div class="bibtex_template">
+      <div class="if author" style="font-weight: bold;">
+        <span class="author"></span>
+        <span class="if url" style="margin-left: 20px">
+          <a class="url" style="font-size:12px">[view online]</a>
+        </span>
+      </div>
+      <div style="margin-left: 10px; margin-bottom:5px;">
+        <span class="title"></span>
+      </div>
+    </div>
+    <div class="bibtex_structure">
+      <div class="group date" extra="DESC number">
+        <article>
+          <div class="templates"></div>
+	</article>
+      </div>
+    </div>
+    <div id="bibtex_display"></div>
+    </main>
+  </body>
+</html>
