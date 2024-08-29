@@ -51,4 +51,4 @@ serve:
 
 install:
 	sudo apt update
-	sudo apt install texlive texlive-science texlive-latex-extra texlive-xetex latexmk texlive-bibtex-extra
+	sudo apt install texlive texlive-science texlive-latex-extra texlive-xetex latexmk texlive-bibtex-extra biber
