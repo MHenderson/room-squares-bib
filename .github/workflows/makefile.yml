@@ -26,5 +26,5 @@ jobs:
     - uses: actions/upload-artifact@v3
       with:
         name: pdfs
-        path: out/room-squares-bib-draft.pdf
+        path: out/Combinatorics/Room\ Squares/room-squares-bib-draft.pdf
 
