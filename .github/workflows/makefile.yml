@@ -23,8 +23,8 @@ jobs:
         export DRAFT_BUILD_FOLDER=$(pwd)/out
         make draft
 
-    - uses: actions/upload-artifact@v3
-      with:
+    - uses: actions/upload-artifact@v4
+      4ith:
         name: pdfs
         path: out/Combinatorics/Room\ Squares/room-squares-bib-draft.pdf
 
