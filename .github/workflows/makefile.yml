@@ -22,3 +22,9 @@ jobs:
         mkdir out
         export DRAFT_BUILD_FOLDER=$(pwd)/out
         make draft
+
+    - uses: actions/upload-artifact@v3
+      with:
+        name: pdfs
+        path: out/room-squares-bib-draft.pdf
+
