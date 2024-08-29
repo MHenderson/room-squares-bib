@@ -48,3 +48,7 @@ site:
 
 serve:
 	python3 -m http.server 8081 -d _site
+
+install:
+	sudo apt update
+	sudo apt install texlive texlive-science texlive-latex-extra texlive-xetex latexmk
