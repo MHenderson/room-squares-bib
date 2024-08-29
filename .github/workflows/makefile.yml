@@ -1,0 +1,30 @@
+name: Makefile CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Install dependencies
+      run: make install
+
+    - name: Build draft PDF
+      run: |
+        mkdir out
+        export DRAFT_BUILD_FOLDER=$(pwd)/out
+        make draft
+
+    - uses: actions/upload-artifact@v4
+      with:
+        name: pdfs
+        path: out/Combinatorics/Room\ Squares/room-squares-bib-draft.pdf
+
