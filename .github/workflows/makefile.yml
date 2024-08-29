@@ -20,5 +20,5 @@ jobs:
     - name: Build draft PDF
       run: |
         mkdir out
-        export WRITING_DRAFT_BUILD_FOLDER=$(pwd)/out
+        export DRAFT_BUILD_FOLDER=$(pwd)/out
         make draft
